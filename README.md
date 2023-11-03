@@ -13,4 +13,4 @@ I use python for this.
 sudo python -m smtpd -n -c DebuggingServer localhost:25
 
 Trigger email
-curl -X POST http://localhost:8080/email/trigger
+curl -X POST http://localhost:8080/email/trigger/alexander.chale.leon@gmail.com
